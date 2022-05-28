@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "281559421304",
+    "project_id": "afl-project-96382",
+    "storage_bucket": "afl-project-96382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281559421304:android:9de2e6be4666287423b88d",
+        "android_client_info": {
+          "package_name": "com.example.aflfirepred"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281559421304-fc0t56r0dvb5i9mncmpkc334ti5frkl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aflfirepred",
+            "certificate_hash": "c182991998d067b61c0dc690667d339c33960ac6"
+          }
+        },
+        {
+          "client_id": "281559421304-uu580rs3imadhhc5t6mlbdr8q6o290mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVILJf3UcsdgGMO8W30bqAqNW23V6dyUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281559421304-uu580rs3imadhhc5t6mlbdr8q6o290mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
